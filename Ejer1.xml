@@ -1,0 +1,48 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<usuarios>
+
+  <usuario>
+    <dni>12345678A</dni>
+	<nombre>Manuel</nombre>
+	<apellidos>Gil Sánchez</apellidos>
+	<telefono>123123123</telefono>
+	<sexo>H</sexo>
+	<email>mgs@correo.com</email>
+
+  </usuario>	
+	
+  <usuario>
+
+    <dni>98765432B</dni>
+	<nombre>Jorge</nombre>
+	<apellidos>Sanz Romeo</apellidos>
+	<telefono>654654654</telefono>
+	<sexo>H</sexo>
+	<email>jrs@correo.com</email>
+
+  </usuario>
+
+  <usuario>
+
+    <dni>12344321C</dni>
+	<nombre>Samanta</nombre>
+	<apellidos>Pascual López</apellidos>
+	<telefono>987987987</telefono>
+	<sexo>M</sexo>
+	<email>spl@correo.com</email>
+
+  </usuario>
+
+  <usuario>
+
+    <dni>45454545D</dni>
+	<nombre>Esther</nombre>
+	<apellidos>Viña García</apellidos>
+	<telefono>014014014</telefono>
+	<sexo>M</sexo>
+	<email>evg@correo.com</email>
+
+  </usuario>  
+
+</usuarios>
